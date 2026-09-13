@@ -1,0 +1,1 @@
+# global_fashion_retail_project
