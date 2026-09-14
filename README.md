@@ -83,9 +83,7 @@ The dashboard consists of **5 interactive pages**.
 
 ### Screenshot
 
-> Replace the placeholder below with your screenshot.
-
-<img width="724" height="404" alt="sales and returns overview" src="https://github.com/user-attachments/assets/d5fb833c-49b1-4c16-8cc4-66d0fe1c14bb" />
+<img width="590" height="338" alt="sales return and overview" src="https://github.com/user-attachments/assets/d3122b04-2f51-48b7-9f77-c46acd3aefce" />
 
 
 ------------------------------------------------------------------------
@@ -109,7 +107,8 @@ The dashboard consists of **5 interactive pages**.
 
 ### Screenshot
 
-<img width="726" height="407" alt="geographic insights" src="https://github.com/user-attachments/assets/dbb86e60-ee71-4341-a9ba-32f862ba392f" />
+
+<img width="584" height="332" alt="geographic insights" src="https://github.com/user-attachments/assets/08269a78-4a3c-4a83-a644-b8c1e9a94c34" />
 
 
 ------------------------------------------------------------------------
@@ -132,7 +131,8 @@ The dashboard consists of **5 interactive pages**.
 
 ### Screenshot
 
-<img width="719" height="404" alt="category and product insights" src="https://github.com/user-attachments/assets/69b5f5bb-b782-4b3d-8294-73f0a76121cc" />
+<img width="590" height="337" alt="categoery and product insights" src="https://github.com/user-attachments/assets/6894f831-3829-4119-baa1-0eb682667ef4" />
+
 
 
 ------------------------------------------------------------------------
@@ -155,7 +155,8 @@ The dashboard consists of **5 interactive pages**.
 
 ### Screenshot
 
-<img width="717" height="402" alt="promotion effectiveness" src="https://github.com/user-attachments/assets/088dfc9f-10ca-43bc-9ef8-f75ea820701f" />
+<img width="584" height="334" alt="promotion effectiveness" src="https://github.com/user-attachments/assets/2a796298-8e96-41c1-aee0-9f7bbc64d445" />
+
 
 
 ------------------------------------------------------------------------
@@ -179,7 +180,8 @@ The dashboard consists of **5 interactive pages**.
 
 ### Screenshot
 
-<img width="714" height="404" alt="customer behavior and loyalty" src="https://github.com/user-attachments/assets/0a15a13c-b363-42d2-a4f5-e273cc8ea2c7" />
+<img width="577" height="339" alt="customer behavior and loyalty" src="https://github.com/user-attachments/assets/701c6d87-88e7-431b-a9b4-8a92e1c81efe" />
+
 
 
 ------------------------------------------------------------------------
