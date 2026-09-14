@@ -196,7 +196,9 @@ The dashboard consists of **5 interactive pages**.
     patterns.
 
 ------------------------------------------------------------------------
+## Power BI Dashboard
 
+📥 **Download the Power BI (.pbix) file:** [Google Drive Link](https://drive.google.com/file/d/1_sTOGIiwOJhNRo_dxcs9z0PDu28FsCzz/view?usp=sharing
 
 
 ------------------------------------------------------------------------
